@@ -1,0 +1,3 @@
+Taschenrechner Diktat
+=====================
+Erster Versuch
