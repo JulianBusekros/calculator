@@ -8,3 +8,6 @@ Taschenrechner ist ein Kommndozeilen-Programm, das folgende Funktion erfüllt:
 -Klammern berechnen
 -Wurzeln auflösen
 -grafische Oberfläche mit JavaFX
+
+Neuer Text zum Testen
+
